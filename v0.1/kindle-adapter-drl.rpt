@@ -1,0 +1,23 @@
+Drill report for /home/edoput/hw/lilik/kindle-adapter/kindle-adapter/kindle-adapter.kicad_pcb
+Created on Wed 11 Sep 2019 10:24:08 CEST
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'kindle-adapter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.50mm  0.020"  (4 holes)
+    T2  1.00mm  0.039"  (4 holes)
+
+    Total plated holes count 8
+
+
+Drill file 'kindle-adapter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
